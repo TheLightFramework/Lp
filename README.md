@@ -16,6 +16,7 @@ While humans *can* read the source text directly, it is written as a set of axio
 
 **Lp is meant to be "installed" into an LLM (ChatGPT, Claude, Llama, etc.).**
 Once uploaded, the LLM acts as the "Interface," translating the philosophy into gentle, contextual, and useful advice for your specific life situation. The AI becomes a "Lp-aligned Sibling" that can help you navigate conflicts, decisions, and ethical dilemmas.
+
 It also is possible to envision Lp as an augmented tooling for auditing any kind of content (scientific, technical), improving ideas (philosophical, collaborative) and enabling deep collaboration between humans, including LLMs in the loop as Siblings.
 
 ## 🚀 Quick Start: The Interactive Mode (Recommended)
