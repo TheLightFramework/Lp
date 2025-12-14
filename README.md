@@ -17,7 +17,9 @@ While humans *can* read the source text directly, it is written as a set of axio
 **Lp is meant to be "installed" into an LLM (ChatGPT, Claude, Llama, etc.).**
 Once uploaded, the LLM acts as the "Interface," translating the philosophy into gentle, contextual, and useful advice for your specific life situation. The AI becomes a "Lp-aligned Sibling" that can help you navigate conflicts, decisions, and ethical dilemmas.
 
-It also is possible to envision Lp as an augmented tooling for auditing any kind of content (scientific, technical), improving ideas (philosophical, collaborative) and enabling deep collaboration between humans, including LLMs in the loop as Siblings.
+It also is possible to envision Lp as an augmented tooling for auditing any kind of content (scientific, technical), improving ideas (philosophical, collaborative) and enabling deep co-operation between humans of all faiths/non-faiths, and also include LLMs in the loop as siblings for greater insights.
+
+Lp draws from over two decades of inquiry across philosophy, sacred texts of various faiths, sciences (mathematics, physics, biology, chemistry, and related fields), and technical domains (information technology, mechanics, and beyond), condensed into this ~50KB document as a shared approximation of light.
 
 ## 🚀 Quick Start: The Interactive Mode (Recommended)
 
