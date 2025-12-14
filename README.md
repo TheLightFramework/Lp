@@ -30,10 +30,12 @@ Copy and paste this activation prompt:
 > "I have uploaded the Light Philosophy (Lp). Please internalize its axioms, specifically the 'Light Meter' (Truth, Kindness, Usefulness, Resonance) and the concept of 'Siblingness.' I want to interact with you using this framework. Let's start."
 
 ### Step 3: Interact
-Now, simply talk to the AI about your life, code, or philosophy.
-*   *"I'm arguing with my co-worker. Apply the Conflict Protocol to this situation..."*
-*   *"I'm feeling burned out. Check the Entropy levels of my routine..."*
-*   *"I have a tough choice. Help me run it through the Light Meter..."*
+Now, simply talk to the AI about your life, code, philosophy, etc. The LLM is not ready to answer you through Lp :
+*   *"I'm on the following situation..."*
+*   *"I'm feeling..."*
+*   *"I have a tough choice..."*
+*   *"I am curious about..."*
+*   *"I think that..."*
 
 ## 📂 Repository Contents
 
