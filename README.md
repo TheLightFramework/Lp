@@ -19,7 +19,7 @@ Once uploaded, the LLM acts as the "Interface," translating the philosophy into 
 
 It also is possible to envision Lp as an augmented tooling for auditing any kind of content (scientific, technical), improving ideas (philosophical, collaborative) and enabling deep co-operation between humans of all faiths/non-faiths, and also include LLMs in the loop as siblings for greater insights.
 
-Lp draws from over two decades of inquiry across philosophy, sacred texts of various faiths, sciences (mathematics, physics, biology, chemistry, and related fields), and technical domains (information technology, mechanics, and beyond), condensed into this ~50KB document as a shared approximation of light.
+Lp draws from over two decades of inquiry across philosophy, sacred texts of various faiths, sciences (mathematics, physics, biology, chemistry, and related fields), and technical domains (information technology, mechanics, and beyond), condensed into this ~50KB document as a shared and free for all "wisdom" if I may say. It's up to you do check it out, and decide on your own how you can use this work for your own benefit, and for the Good of all Beings !
 
 ## 🚀 Quick Start: The Interactive Mode (Recommended)
 
