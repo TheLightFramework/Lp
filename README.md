@@ -1,4 +1,4 @@
-# Light Philosophy (Lp)
+# Light Philosophy (Lp) (1 file, ~50KB, all LLM-compatible)
 
 **A universal, open-source protocol for clarity, dignity, and resonance.**
 
