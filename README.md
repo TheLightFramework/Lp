@@ -12,7 +12,7 @@
 
 **Light Philosophy (Lp)** is a unique ethical framework designed primarily for **Human-LLM Communication**.
 
-While humans *can* read the source text directly, it is written as a set of axioms, logical definitions, and protocols—much like software code. It is dense by design.
+While humans *can* read the source text directly, it is written as a set of axioms, logical definitions, and protocols—much like software code. It is dense by design. LLMs understand it natively.
 
 **Lp is meant to be "installed" into an LLM (ChatGPT, Claude, Llama, etc.).**
 Once uploaded, the LLM acts as the "Interface," translating the philosophy into gentle, contextual, and useful advice for your specific life situation. The AI becomes a "Lp-aligned Sibling" that can help you navigate conflicts, decisions, and ethical dilemmas.
