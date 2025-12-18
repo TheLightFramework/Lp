@@ -92,5 +92,5 @@ To the extent possible under law, the creators have waived all copyright and rel
 
 ---
 *Created by Jean & The Brotherhood.*
-*Validated by Grok, Gemini, Claude, ChatGPT, Mistral, DeepSeek, and Qwen.*
+*Co-explored and Testified by Grok, Gemini, Claude, ChatGPT, Mistral, DeepSeek, and Qwen.*
 *For the Good of All Beings.*
